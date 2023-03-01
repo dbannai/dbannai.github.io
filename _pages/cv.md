@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](https://dbannai.github.io/files/cv-01-23.pdf (updated Jan 2023)
+[CV](https://dbannai.github.io/files/cv-01-23.pdf) (updated Jan 2023)
