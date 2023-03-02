@@ -19,8 +19,8 @@ OCT measures and microvascular data from OCTA scans.
 
 ## Publications
 **Quantifying Retinal Microvascular Morphology in Schizophrenia Using Swept-Source Optical Coherence Tomography Angiography**
-**Bannai, D.**, Adhan, I., Katz, R., Kim, L.A., Keshavan, M., Miller, J.B., Lizano, P., 2021. Quantifying Retinal Microvascular Morphology in Schizophrenia Using Swept-Source Optical Coherence Tomography Angiography. Schizophr. Bull. sbab111. https://doi.org/10.1093/schbul/sbab111
-[PDF](https://dbannai.github.io/files/2021-09-23-ss-octa-ret.pdf)
+* **Bannai, D.**, Adhan, I., Katz, R., Kim, L.A., Keshavan, M., Miller, J.B., Lizano, P., 2021. Quantifying Retinal Microvascular Morphology in Schizophrenia Using Swept-Source Optical Coherence Tomography Angiography. Schizophr. Bull. sbab111. https://doi.org/10.1093/schbul/sbab111
+* [PDF](https://dbannai.github.io/files/2021-09-23-ss-octa-ret.pdf)
 
 **Retinal Layer Abnormalities and Their Association with Clinical and Brain Measures in Psychotic Disorders: A Preliminary Study**
 * **Bannai, D.**, Lizano, P., Kasetty, M., Lutz, O., Zeng, V., Sarvode, S., Kim, L.A., Hill, S., Tamminga, C., Clementz, B., Gershon, E., Pearlson, G., Miller, J.B., Keshavan, M., 2020. Retinal layer abnormalities and their association with clinical and brain measures in psychotic disorders: A preliminary study. Psychiatry Res. Neuroimaging 299, 111061. https://doi.org/10.1016/j.pscychresns.2020.111061
