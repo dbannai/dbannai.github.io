@@ -12,4 +12,4 @@ Hello there! I'm a first-year neuroscience PhD student at UC Berkeley, and my ge
 
 Before grad school, I received my bachelor's in biomedical engineering from UT Austin (hook 'em!) and my master's in medical sciences from Boston University. I then went onto work with Drs. [Paulo Lizano](https://lizanolab.com) and Matcheri Keshavan at BIDMC/Harvard analyzing neuro- and retinal imaging biomarkers in psychosis. 
 
-Outside of the office, you can probably find me enjoying a nice hike, listening to old desi music, fretting over my houseplants, and drawing. 
+Outside of the office, you can probably find me enjoying a nice hike, listening to old desi music, fretting over my houseplants, or drawing. 
