@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Research
-permalink: /research/
+permalink: /art/
 ---
 
 ## Retinal imaging biomarkers in psychotic disorders
