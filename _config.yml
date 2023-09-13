@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Deepthi Bannai"
   avatar           : "deepthi2.png"
-  bio              : "first-year neuro phd student"
+  bio              : "second-year neuro phd student"
   location         : "Berkeley, CA"
   employer         :
-  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Bannai+D&cauthor_id=34554256"
+  pubmed           : # "https://pubmed.ncbi.nlm.nih.gov/?term=Bannai+D&cauthor_id=34554256"
   googlescholar    : "https://scholar.google.com/citations?user=Gm8UUQEAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
