@@ -17,7 +17,7 @@ OCT measures and microvascular data from OCTA scans.
 </p>
 *Figure 1 from Bannai et. al 2021, Schizophrenia Bull. Depicts flow of semi-automated pipeline in eyes from a healthy control (top row) and patient (bottom row).
 
-## Publications
+## Selected Publications
 [**Quantifying Retinal Microvascular Morphology in Schizophrenia Using Swept-Source Optical Coherence Tomography Angiography**](https://dbannai.github.io/files/2021-09-23-ss-octa-ret.pdf)
 
 [**Retinal Layer Abnormalities and Their Association with Clinical and Brain Measures in Psychotic Disorders: A Preliminary Study**](https://dbannai.github.io/files/2020-02-27-ret-structural-prelim.pdf)
